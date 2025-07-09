@@ -1,0 +1,20 @@
+{
+    "AI123": {
+        "flight_number": "AI123",
+        "departure_time": "08:00 AM",
+        "destination": "Delhi",
+        "status": "Delayed"
+    },
+    "AI456": {
+        "flight_number": "AI456",
+        "departure_time": "02:30 PM",
+        "destination": "Mumbai",
+        "status": "On Time"
+    },
+    "AI999": {
+        "flight_number": "AI999",
+        "departure_time": "Not available",
+        "destination": "Unknown",
+        "status": "Not found"
+    }
+}
